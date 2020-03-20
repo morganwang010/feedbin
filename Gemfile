@@ -24,7 +24,7 @@ end
 group :development, :test do
   gem "puma"
   gem "minitest"
-  gem "stripe-ruby-mock", "= 2.5.0", require: "stripe_mock"
+  gem "stripe-ruby-mock", "2.5.8", require: "stripe_mock"
   gem "faker"
   gem "webmock", "= 3.8.0"
   gem "minitest-stub-const"
