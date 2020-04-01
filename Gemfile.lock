@@ -551,7 +551,7 @@ GEM
     unicorn (5.5.4)
       kgio (~> 2.6)
       raindrops (~> 0.7)
-    webmock (3.8.0)
+    webmock (3.8.3)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
@@ -650,7 +650,7 @@ DEPENDENCIES
   uglifier (= 4.1.11)
   unicode-emoji
   unicorn
-  webmock (= 3.8.0)
+  webmock (= 3.8.3)
   will_paginate
 
 BUNDLED WITH
